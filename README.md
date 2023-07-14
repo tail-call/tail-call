@@ -1,4 +1,6 @@
-### Hi there 👋
+# github.com/tail-call
+
+This is my personal GitHub. A lot of the code that I write for myself eventually gets uploaded here. Most of the repos are only interesting for me, but I try to document things at least somewhat. Feel free to reach out if you're interested in anything.
 
 <!--
 **tail-call/tail-call** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
