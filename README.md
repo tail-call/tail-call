@@ -4,17 +4,14 @@ This is my personal GitHub. A lot of code that I write for myself eventually get
 
 Check out my [gists](https://gist.github.com/tail-call), I post funny stuff there. It's sorta like Twitter for me.
 
-<!--
-**tail-call/tail-call** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links I find useful
 
-Here are some ideas to get you started:
+- [Free for Developers](https://free-for.dev/), free services for developers, from CI/CD to IDEs.
+- [Litmaps](https://www.litmaps.com), search for scientific papers.
+- [Stack Roboflow](https://stackroboflow.com/), a Q&A website of the future.
+- [Timecube](https://timecube.2enp.com), a very good explanation of how time works. <!-- this is not what I truly think -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Apps I like (macOS only)
+
+- [Keka](https://www.keka.io/en/), a file archiver.
+- [Mountain Duck](https://mountainduck.io), mount cloud storage as a disk.
