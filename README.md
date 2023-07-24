@@ -11,6 +11,7 @@ Check out my [gists](https://gist.github.com/tail-call), I post funny stuff ther
 - [Stack Roboflow](https://stackroboflow.com/), a Q&A website of the future.
 - [Timecube](https://timecube.2enp.com), a very good explanation of how time works. <!-- this is not what I truly think -->
 - [WebVM](https://webvm.io) — run Linux on the web page. Customizable via Dockerfiles.
+- [An iconic CrackLib README](https://github.com/apple-oss-distributions/CrackLib/tree/CrackLib-37765/cracklib27)
 
 ## Apps I like (macOS only)
 
