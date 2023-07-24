@@ -4,7 +4,7 @@ This is my personal GitHub. A lot of code that I write for myself eventually get
 
 Check out my [gists](https://gist.github.com/tail-call), I post funny stuff there. It's sorta like Twitter for me.
 
-## Links I find useful
+## Useful links
 
 - [Free for Developers](https://free-for.dev/), free services for developers, from CI/CD to IDEs.
 - [Litmaps](https://www.litmaps.com), search for scientific papers.
