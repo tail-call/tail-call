@@ -4,7 +4,7 @@ This is my personal GitHub. A lot of code that I write for myself eventually get
 
 Check out my [gists](https://gist.github.com/tail-call), I post funny stuff there. It's sorta like Twitter for me.
 
-## Useful links
+## Useful links (aka links from Hacker News top page that I clicked)
 
 - [Free for Developers](https://free-for.dev/), free services for developers, from CI/CD to IDEs.
 - [Litmaps](https://www.litmaps.com), search for scientific papers.
@@ -19,3 +19,8 @@ Check out my [gists](https://gist.github.com/tail-call), I post funny stuff ther
 
 - [Keka](https://www.keka.io/en/), a file archiver.
 - [Mountain Duck](https://mountainduck.io), mount cloud storage as a disk.
+
+## Links to some blogs I guess
+
+- [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
+- [fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
