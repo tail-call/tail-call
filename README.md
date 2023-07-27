@@ -13,6 +13,7 @@ Check out my [gists](https://gist.github.com/tail-call), I post funny stuff ther
 - [WebVM](https://webvm.io) — run Linux on the web page. Customizable via Dockerfiles.
 - [The iconic CrackLib README](https://github.com/apple-oss-distributions/CrackLib/tree/CrackLib-37765/cracklib27)
 - [Mark Watson's own free books repo](https://github.com/mark-watson/free-older-books-and-software), take a look if you're interested in AI and Common Lisp.
+- [Janet for Mortals (a real book)](https://janet.guide)
 
 ## Apps I like (macOS only)
 
