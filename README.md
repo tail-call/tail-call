@@ -21,6 +21,8 @@ Check out my [gists](https://gist.github.com/tail-call), I post funny stuff ther
 - [Keka](https://www.keka.io/en/), a file archiver.
 - [Mountain Duck](https://mountainduck.io), mount cloud storage as a disk.
 - [Image2icon](https://img2icnsapp.com), generate icons for iOS and macOS apps.
+- [NetIQuette](https://objective-see.org/products/netiquette.html), a network monitor.
+- [ZipMounter](https://apps.apple.com/us/app/zipmounter/id1315374401?mt=12), mount your archives as volumes.
 
 ## Links to some blogs I guess
 
