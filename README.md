@@ -4,10 +4,11 @@ This is my personal GitHub. A lot of code that I write for myself eventually get
 
 Check out my [gists](https://gist.github.com/tail-call), I post funny stuff there. It's sorta like Twitter for me.
 
-## Useful links (aka links from Hacker News top page that I clicked)
+## Useful links
 
 - [Free for Developers](https://free-for.dev/), free services for developers, from CI/CD to IDEs.
 - [Litmaps](https://www.litmaps.com), search for scientific papers.
+- [Eureka Alert](https://www.eurekalert.org), science news
 - [Stack Roboflow](https://stackroboflow.com/), a Q&A website of the future.
 - [Timecube](https://timecube.2enp.com), a very good explanation of how time works. <!-- this is not what I truly think -->
 - [WebVM](https://webvm.io) — run Linux on the web page. Customizable via Dockerfiles.
