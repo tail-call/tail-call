@@ -20,6 +20,7 @@ Check out my [gists](https://gist.github.com/tail-call), I post funny stuff ther
 
 - [Keka](https://www.keka.io/en/), a file archiver.
 - [Mountain Duck](https://mountainduck.io), mount cloud storage as a disk.
+- [Image2icon](https://img2icnsapp.com), generate icons for iOS and macOS apps.
 
 ## Links to some blogs I guess
 
