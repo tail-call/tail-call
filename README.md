@@ -4,6 +4,8 @@ This is my personal GitHub. A lot of code that I write for myself eventually get
 
 Check out my [gists](https://gist.github.com/tail-call), I post funny stuff there. It's sorta like Twitter for me.
 
+I have an [Itch.io page](https://engraze.itch.io).
+
 ## Useful links
 
 - [Free for Developers](https://free-for.dev/), free services for developers, from CI/CD to IDEs.
