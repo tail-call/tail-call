@@ -32,3 +32,4 @@ I have an [Itch.io page](https://engraze.itch.io).
 - [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
 - [fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
 - [Blogscroll](https://blogscroll.com), a collection of blog links, fun to browse.
+- [Melos Han-Tani](https://melodicambient.substack.com), gamedev stuff mostly.
