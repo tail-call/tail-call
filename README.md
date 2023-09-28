@@ -18,6 +18,7 @@ I have an [Itch.io page](https://engraze.itch.io).
 - [Mark Watson's own free books repo](https://github.com/mark-watson/free-older-books-and-software), take a look if you're interested in AI and Common Lisp.
 - [Janet for Mortals (a real book)](https://janet.guide).
 - [WTF Auto Layout?](https://www.wtfautolayout.com) - a unanswered question many a philosopher did pursue.
+- [ACM Digital Library](https://dl.acm.org/) — computer science papers.
 
 ## Apps I like (macOS only)
 
