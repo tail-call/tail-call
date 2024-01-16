@@ -20,6 +20,7 @@ I have an [Itch.io page](https://engraze.itch.io).
 - [WTF Auto Layout?](https://www.wtfautolayout.com) - a unanswered question many a philosopher did pursue.
 - [ACM Digital Library](https://dl.acm.org/) — computer science papers.
 - [LLDB cheatsheet](https://gist.github.com/ryanchang/a2f738f0c3cc6fbd71fa)
+- [TheOuterLinux](https://theouterlinux.gitlab.io)
 
 ## Apps I like (macOS only)
 
