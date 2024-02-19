@@ -61,3 +61,9 @@ public strictfp class MyCalculations {
 ```java
 public record Person (String name, String address) {}
 ```
+
+Вот так можно создать список:
+
+```java
+List<String> words = Arrays.asList("Welcome", "to", "the", "world", "of", "pain");
+```
