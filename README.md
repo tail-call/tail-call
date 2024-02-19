@@ -5,6 +5,9 @@ Check out my [gists](https://gist.github.com/tail-call), I post funny stuff ther
 
 I have an [Itch.io page](https://engraze.itch.io).
 
+<details>
+<summary>See more...</summary>
+
 ## Useful links
 
 - [Free for Developers](https://free-for.dev/), free services for developers, from CI/CD to IDEs.
@@ -36,3 +39,4 @@ I have an [Itch.io page](https://engraze.itch.io).
 - [Blogscroll](https://blogscroll.com), a collection of blog links, fun to browse.
 - [Melos Han-Tani](https://melodicambient.substack.com), gamedev stuff mostly.
 - [flak](https://flak.tedunangst.com)
+</details>
