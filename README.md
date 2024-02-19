@@ -1,4 +1,4 @@
-# github.com/tail-call • [𝓌](https://github.com/tail-call/knowledge/wiki)
+# ♪ 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki)
 This is my personal GitHub. A lot of code that I write for myself eventually gets uploaded here. Most of the repos are only interesting for me, but I try to document things at least somewhat. Feel free to reach out (and touch faith) if you're interested in anything. 🐾
 
 Check out my [gists](https://gist.github.com/tail-call), I post funny stuff there. It's sorta like Twitter for me.
