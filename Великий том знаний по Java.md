@@ -55,3 +55,9 @@ public strictfp class MyCalculations {
     }
 }
 ```
+
+Записи есть там.
+
+```java
+public record Person (String name, String address) {}
+```
