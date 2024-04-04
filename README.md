@@ -5,8 +5,11 @@ Check out my [gists](https://gist.github.com/tail-call), I post funny stuff ther
 
 I have an [Itch.io page](https://engraze.itch.io).
 
+Feeling sad and unhappy? Use [peco](https://github.com/peco/peco) and [tmux](https://github.com/tmux/tmux).
+
 <details>
 <summary>⦿&thinsp;◀</summary>
+
 
 ## Useful links
 
