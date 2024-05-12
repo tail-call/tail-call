@@ -1,15 +1,20 @@
 # ♫λ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
-```yaml
-Maria: # it's me
-  traits:
-    - a software developer
-    - a fan of closures
-    - a new age neo hippie
-  hobbies:
-    - composing music
-    - singing
-    - poetry
+```swift
+struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
+  let favoriteProgrammingLanguages = [
+    "Scheme",
+    "Lua",
+    "Swift",
+    "TypeScript",
+  ]
+
+  let hobbies = [
+    "composing music",
+    "singing",
+    "poetry",
+  ]
+}
 ```
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
