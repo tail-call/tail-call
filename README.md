@@ -2,6 +2,8 @@
 
 ```swift
 struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
+  let editor = "nvim"
+
   let favoriteProgrammingLanguages = [
     "Scheme",
     "Lua",
@@ -14,6 +16,10 @@ struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
     "singing",
     "poetry",
   ]
+
+  func likes(os: OS) -> Bool {
+    os != .windows
+  }
 }
 ```
 
