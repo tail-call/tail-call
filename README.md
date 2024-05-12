@@ -6,6 +6,10 @@ Maria: # it's me
     - a software developer
     - a fan of closures
     - a new age neo hippie
+  hobbies:
+    - composing music
+    - singing
+    - poetry
 ```
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
