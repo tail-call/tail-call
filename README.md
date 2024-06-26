@@ -1,5 +1,7 @@
 # ♫λ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
+[Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf)
+
 ```swift
 struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
   let editor = "nvim"
@@ -23,8 +25,6 @@ struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
   }
 }
 ```
-
-[Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf)
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
 
