@@ -5,6 +5,7 @@ struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
   let editor = "nvim"
 
   let favoriteProgrammingLanguages = [
+    "Python",
     "Scheme",
     "Lua",
     "Swift",
