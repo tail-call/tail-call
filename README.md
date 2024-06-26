@@ -23,6 +23,8 @@ struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
 }
 ```
 
+[Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call.github.io/blob/gh-pages/pdf/Certificate_2024-06-26_18_11_54.904Z.pdf)
+
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
 
 <details>
