@@ -1,0 +1,180 @@
+  [Angband 4.2.4 Character Dump]
+
+ Name   Adelca       Age             18          Self  RB  CB  EB   Best
+ Race   Kobold       Height        3'2"   STR:     16  -1  +0  +0     15
+ Class  Rogue        Weight     4st 8lb   INT:     11  -1  +1  +0     11
+ Title  Vagabond     Turns used:          WIS:     14  +0  -3  +0     11
+ HP     -4/42        Game         27778   DEX:     15  +2  +3  +0  18/20
+ SP     0/0          Standard      2789   CON:      9  +2  -1  +0     10
+                     Resting        343
+
+ Level                  4    Armor       [12,+2]    Saving Throw     33%
+ Cur Exp               73                           Stealth    Very Good
+ Max Exp               73    Melee        2d5,+0    Disarm - phys.   66%
+ Adv Exp               84    To-hit        16,+2    Disarm - magic   64%
+                             Blows      1.1/turn    Magic Devices     42
+ Gold                  37                           Searching        36%
+ Burden           34.2 lb    Shoot to-dam     +0    Infravision    50 ft
+ Overweight      -67.7 lb    To-hit        29,+2    Speed         Normal
+ Max Depth      100' (L2)    Shots      0.0/turn
+
+ You are the runt of a litter of 4 cubs. Your father was a warrior, and
+ your mother was a cook. You have light brown eyes, blue scales, and
+ small, sharp teeth. You present yourself as a female.
+
+Resistances         Abilities
+ Acid:............. pFear:.............
+ Elec:............. pBlnd:.............
+ Fire:............. pConf:.............
+ Cold:............. pStun:.............
+ Pois:............+ HLife:.............
+Light:............. Regen:.............
+ Dark:.............   ESP:.............
+Sound:............. S.Inv:.............
+Shard:............. FrAct:.............
+Nexus:............. Feath:.............
+Nethr:............. S.Dig:.............
+Chaos:............. TrpIm:.............
+Disen:............. Bless:.............
+
+Hindrances          Modifiers
+ImpHP:............. Stea.:.............
+ImpSP:............. Sear.:.............
+ Fear:............. Infra:............+
+Aggrv:............. Tunn.:.............
+NoTel:............. Speed:.............
+DrExp:............. Blows:.............
+Stick:............. Shots:.............
+Fragl:............. Might:.............
+                    Light:.............
+                    D.Red:.............
+                    Moves:.............
+
+
+  [Last Messages]
+
+> You miss the kobold.
+> The kobold hits you.
+> You hit the kobold.
+> The kobold hits you.
+> The kobold misses you.
+> Something makes a high-pitched shriek.
+> The kobold looks even faster!
+> The kobold misses you.
+> The kobold hits you.
+> *** LOW HITPOINT WARNING! ***
+> The kobold hits you.
+> *** LOW HITPOINT WARNING! ***
+> The kobold misses you.
+> The kobold hits you.
+> You die.
+
+Killed by a kobold.
+
+  [Character Equipment]
+
+a) a Long Sword (2d5) (+0,+0)
+     Bought from a store
+     
+     Combat info:
+     1.1 blows/round.
+     With +5 STR and +0 DEX you would get 1.3 blows
+     With +0 STR and +2 DEX you would get 1.3 blows
+     Average damage/round: 7.3.
+     
+f) a Wooden Torch (2587 turns)
+     An inheritance from your family
+     
+     Intensity 2 light.
+     
+g) Studded Leather Armour (-1) [12,+0]
+     Bought from a store
+     
+
+
+
+
+  [Character Inventory]
+
+a) a Handful of Dried Fruits
+b) 2 Rations of Food
+c) 2 Potions of Neutralize Poison
+d) a Scroll of Word of Recall
+e) a Wooden Torch (5000 turns)
+     Bought from a store
+     
+     Intensity 2 light.
+     
+
+
+
+
+  [Character Quiver]
+
+0) 9 Rounded Pebbles (1d2) (+0,+0)
+     Combat info:
+     Average thrown damage: 3.
+     
+
+
+  [Home Inventory]
+
+a) 3 Rations of Food
+
+
+[Player history]
+      Turn   Depth  Note
+         0      0'  Began the quest to destroy Morgoth.
+       621     50'  Reached level 2
+       939     50'  -- Note: hi
+      1165     50'  -- Note: I feel pretty
+      1471     50'  Reached level 3
+      1906     50'  -- Note: killing dogs is soooo coool
+      2668    100'  Killed Fang, Farmer Maggot's Dog
+      2668    100'  Reached level 4
+
+
+  [Options]
+
+  [User interface]
+
+Use the roguelike command keyset             : no  (rogue_like_commands)
+Use sound                                    : yes (use_sound)
+Show damage player deals to monsters         : no  (show_damage)
+Use old target by default                    : no  (use_old_target)
+Always pickup items                          : no  (pickup_always)
+Always pickup items matching inventory       : yes (pickup_inven)
+Show flavors in object descriptions          : no  (show_flavors)
+Highlight target with cursor                 : yes (show_target)
+Highlight player with cursor between turns   : no  (highlight_player)
+Disturb whenever viewable monster moves      : yes (disturb_near)
+Show walls as solid blocks                   : no  (solid_walls)
+Show walls with shaded background            : no  (hybrid_walls)
+Color: Illuminate torchlight in yellow       : no  (view_yellow_light)
+Color: Shimmer multi-colored things          : no  (animate_flicker)
+Center map continuously                      : no  (center_player)
+Color: Show unique monsters in purple        : no  (purple_uniques)
+Automatically clear '-more-' prompts         : no  (auto_more)
+Color: Player color indicates % hit points   : yes (hp_changes_color)
+Allow mouse clicks to move the player        : yes (mouse_movement)
+Notify on object recharge                    : no  (notify_recharge)
+Show effective speed as multiplier           : no  (effective_speed)
+
+  [Birth]
+
+Generate a new, random artifact set          : no  (birth_randarts)
+Generate connected stairs                    : yes (birth_connect_stairs)
+Force player descent (never make up stairs)  : no  (birth_force_descend)
+Word of Recall has no effect                 : no  (birth_no_recall)
+Restrict creation of artifacts               : no  (birth_no_artifacts)
+Stack objects on the floor                   : yes (birth_stacking)
+Lose artifacts when leaving level            : no  (birth_lose_arts)
+Show level feelings                          : no  (birth_feelings)
+Increase gold drops but disable selling      : no  (birth_no_selling)
+Start with a kit of useful gear              : no  (birth_start_kit)
+Monsters learn from their mistakes           : yes (birth_ai_learn)
+Know all runes on birth                      : no  (birth_know_runes)
+Know all flavors on birth                    : no  (birth_know_flavors)
+Persistent levels (experimental)             : yes (birth_levels_persist)
+To-damage is a percentage of dice (experimental): no  (birth_percent_damage)
+
