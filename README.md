@@ -55,7 +55,7 @@ struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
 - [NetIQuette](https://objective-see.org/products/netiquette.html), a network monitor.
 - [ZipMounter](https://apps.apple.com/us/app/zipmounter/id1315374401?mt=12), mount your archives as volumes.
 
-## Links to some blogs I guess
+## Cool blogs
 
 - [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
 - [fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
@@ -63,4 +63,5 @@ struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
 - [Melos Han-Tani](https://melodicambient.substack.com), gamedev stuff mostly.
 - [flak](https://flak.tedunangst.com)
 - [hereket](https://hereket.com/)
+- [dotat](https://dotat.at/) <!-- 2024-08-01 -->
 </details>
