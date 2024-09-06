@@ -29,6 +29,17 @@ struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
 
+## Cool blogs
+
+- [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
+- [fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
+- [Blogscroll](https://blogscroll.com), a collection of blog links, fun to browse.
+- [Melos Han-Tani](https://melodicambient.substack.com), gamedev stuff mostly.
+- [flak](https://flak.tedunangst.com)
+- [hereket](https://hereket.com/)
+- [dotat](https://dotat.at/) <!-- 2024-08-01 -->
+- [Aleksandra T.Ma's blog](https://mtsandra.github.io/blog/), ML and stuff <!-- 2024-09-06 -->
+
 <details>
 <summary>⦿&thinsp;◀</summary>
 
@@ -55,14 +66,4 @@ struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
 - [Image2icon](https://img2icnsapp.com), generate icons for iOS and macOS apps.
 - [NetIQuette](https://objective-see.org/products/netiquette.html), a network monitor.
 - [ZipMounter](https://apps.apple.com/us/app/zipmounter/id1315374401?mt=12), mount your archives as volumes.
-
-## Cool blogs
-
-- [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
-- [fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
-- [Blogscroll](https://blogscroll.com), a collection of blog links, fun to browse.
-- [Melos Han-Tani](https://melodicambient.substack.com), gamedev stuff mostly.
-- [flak](https://flak.tedunangst.com)
-- [hereket](https://hereket.com/)
-- [dotat](https://dotat.at/) <!-- 2024-08-01 -->
 </details>
