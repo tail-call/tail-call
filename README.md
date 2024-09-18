@@ -4,7 +4,7 @@
 [Лекции по машинному обучению](https://sok.susu.ru/courses/MachineLearnig/lectures/) • [BabyAGI inspired projects](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
 
 ```swift
-struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
+struct Maria: SoftwareDeveloper, DataScientist, FanOfClosures, NewAgeNeoHippie {
   let editor = "nvim"
 
   let favoriteProgrammingLanguages = [
@@ -15,10 +15,17 @@ struct Maria: SoftwareDeveloper, FanOfClosures, NewAgeNeoHippie {
     "TypeScript",
   ]
 
+  let interestedIn = [
+    "Machine Learning",
+    "Computer Graphics",
+    "Compilers",
+  ]
+
   let hobbies = [
-    "composing music",
-    "singing",
-    "poetry",
+    "Composing Music",
+    "Journaling",
+    "Singing",
+    "Poetry",
   ]
 
   func likes(os: OS) -> Bool {
