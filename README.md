@@ -4,7 +4,7 @@
 [Лекции по машинному обучению](https://sok.susu.ru/courses/MachineLearnig/lectures/) • [BabyAGI inspired projects](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
 
 ```swift
-struct Maria: SoftwareDeveloper, DataScientist, FanOfClosures, NewAgeNeoHippie {
+struct Maria: SoftwareDeveloper, DataScientist, NewAgeNeoHippie {
   let editor = "nvim"
 
   let favoriteProgrammingLanguages = [
@@ -36,6 +36,15 @@ struct Maria: SoftwareDeveloper, DataScientist, FanOfClosures, NewAgeNeoHippie {
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
 
+## Research
+
+Browse papers on these websites daily and you will become... _read more_
+
+- [arXiv.org](https://arxiv.org/) — the one and only. <!-- 2024-09-21 -->
+- [ProjectEuclid](https://projecteuclid.org/) — mathematics and statistics. <!-- 2024-09-21 -->
+- [ACM Digital Library](https://dl.acm.org/) — computer science papers.
+- [Papers With Code](https://paperswithcode.com/) — apparently these papers have code. <!-- 2024-09-21 -->
+
 ## Cool blogs
 
 - [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
@@ -50,7 +59,9 @@ struct Maria: SoftwareDeveloper, DataScientist, FanOfClosures, NewAgeNeoHippie {
 <details>
 <summary>⦿&thinsp;◀</summary>
 
-## Useful links
+Congratulations, you have found more links.
+
+## Important links
 
 - [Free for Developers](https://free-for.dev/), free services for developers, from CI/CD to IDEs.
 - [Litmaps](https://www.litmaps.com), search for scientific papers.
@@ -62,7 +73,6 @@ struct Maria: SoftwareDeveloper, DataScientist, FanOfClosures, NewAgeNeoHippie {
 - [Mark Watson's own free books repo](https://github.com/mark-watson/free-older-books-and-software), take a look if you're interested in AI and Common Lisp.
 - [Janet for Mortals (a real book)](https://janet.guide).
 - [WTF Auto Layout?](https://www.wtfautolayout.com) - a unanswered question many a philosopher did pursue.
-- [ACM Digital Library](https://dl.acm.org/) — computer science papers.
 - [LLDB cheatsheet](https://gist.github.com/ryanchang/a2f738f0c3cc6fbd71fa)
 - [TheOuterLinux](https://theouterlinux.gitlab.io)
 
