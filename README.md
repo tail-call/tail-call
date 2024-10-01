@@ -12,10 +12,10 @@
     :initform '(machine-learning computer-graphics compilers))
    (hobbies :initform '(composing-music journaling hiking singing poetry))))
 
-(defmethod likes ((os t) (self maria))
+(defmethod likes-p ((os t) (self maria))
   t)
 
-(defmethod likes ((os (eql :windows)) (self maria))
+(defmethod likes-p ((os (eql :windows)) (self maria))
   nil)
 ```
 
