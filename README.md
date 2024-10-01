@@ -5,12 +5,12 @@
 
 ```lisp
 (defclass maria (software-developer data-scientist new-age-neo-hippie lisp-geek)
-  ((editors :initform '(nvim emacs vs-code))
+  ((editors :initform '(:nvim :emacs :vs-code))
    (favorite-programming-languages
-    :initform '(python scheme lua swift typescript))
-   (interested-in
-    :initform '(machine-learning computer-graphics compilers))
-   (hobbies :initform '(composing-music journaling hiking singing poetry))))
+    :initform '(:python :scheme :lua :swift :typescript))
+   (interests
+    :initform '(:machine-learning :computer-graphics :compilers :philosophy))
+   (hobbies :initform '(:composing-music :journaling :hiking :singing :poetry))))
 
 (defmethod likes-p ((os t) (self maria))
   t)
