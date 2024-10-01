@@ -3,35 +3,20 @@
 [Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf) •
 [Лекции по машинному обучению](https://sok.susu.ru/courses/MachineLearnig/lectures/) • [BabyAGI inspired projects](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
 
-```swift
-struct Maria: SoftwareDeveloper, DataScientist, NewAgeNeoHippie {
-  let editor = "nvim"
+```lisp
+(defclass maria (software-developer data-scientist new-age-neo-hippie lisp-geek)
+  ((editors :initform '(nvim emacs vs-code))
+   (favorite-programming-languages
+    :initform '(python scheme lua swift typescript))
+   (interested-in
+    :initform '(machine-learning computer-graphics compilers))
+   (hobbies :initform '(composing-music journaling hiking singing poetry))))
 
-  let favoriteProgrammingLanguages = [
-    "Python",
-    "Scheme",
-    "Lua",
-    "Swift",
-    "TypeScript",
-  ]
+(defmethod likes ((os t) (self maria))
+  t)
 
-  let interestedIn = [
-    "Machine Learning",
-    "Computer Graphics",
-    "Compilers",
-  ]
-
-  let hobbies = [
-    "Composing Music",
-    "Journaling",
-    "Singing",
-    "Poetry",
-  ]
-
-  func likes(os: OS) -> Bool {
-    os != .windows
-  }
-}
+(defmethod likes ((os (eql :windows)) (self maria))
+  nil)
 ```
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
