@@ -21,6 +21,10 @@
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
 
+## Notable READMEs
+
+- [CLAide](https://github.com/CocoaPods/CLAide), a ruby lib for building CLI interfaces. Simply adorable.
+
 ## Research
 
 Browse papers on these websites daily and you will become... _read more_
