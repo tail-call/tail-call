@@ -37,6 +37,7 @@ Browse papers on these websites daily and you will become... _read more_
 - [ProjectEuclid](https://projecteuclid.org/) — mathematics and statistics. <!-- 2024-09-21 -->
 - [ACM Digital Library](https://dl.acm.org/) — computer science papers.
 - [Papers With Code](https://paperswithcode.com/) — apparently these papers have code. <!-- 2024-09-21 -->
+- [Hugging Face Daily Papers](https://huggingface.co/papers) <!-- 2024-11-03 -->
 
 ## Cool blogs
 
