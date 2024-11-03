@@ -1,5 +1,9 @@
 # ♫λ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
+- [NeurIPS - Machine Learning for Theorem Proving - Outline](https://github.com/tail-call/tail-call/blob/main/NeurIPS%20-%20Machine%20Learning%20for%20Theorem%20Proving%20-%20Outline_compressed.pdf)
+
+## About me
+
 [Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf) •
 [Лекции по машинному обучению](https://sok.susu.ru/courses/MachineLearnig/lectures/) • [BabyAGI inspired projects](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
 
