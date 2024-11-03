@@ -29,6 +29,8 @@ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024]
 
 (defmethod likes-p ((os (eql :windows)) (self maria))
   nil)
+
+;; vim: set ft=lisp ts=2 sw=2 et:
 ```
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
