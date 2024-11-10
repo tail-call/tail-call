@@ -16,6 +16,8 @@ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024]
 [Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf)
 
 ```lisp
+;; about-me.lisp
+
 (defclass maria (software-developer data-scientist new-age-neo-hippie lisp-geek)
   ((editors :initform '(:nvim :emacs :vs-code))
    (favorite-programming-languages
@@ -29,8 +31,6 @@ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024]
 
 (defmethod likes-p ((os (eql :windows)) (self maria))
   nil)
-
-;; vim: set ft=lisp ts=2 sw=2 et:
 ```
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
