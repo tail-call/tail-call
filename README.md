@@ -61,7 +61,7 @@ Browse papers on these websites daily and you will become... _read more_
 - [hereket](https://hereket.com/)
 - [dotat](https://dotat.at/) <!-- 2024-08-01 -->
 - [Aleksandra T.Ma's blog](https://mtsandra.github.io/blog/), ML and stuff <!-- 2024-09-06 -->
-- [Parenthetically Speaking](https://parentheticallyspeaking.org/)
+- [Parenthetically Speaking](https://parentheticallyspeaking.org/) <!-- 2024-11-10 -->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
