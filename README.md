@@ -45,7 +45,7 @@ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024]
 
 Browse papers on these websites daily and you will become... _read more_
 
-- [arXiv.org](https://arxiv.org/) — the one and only. <!-- 2024-09-21 -->
+- ⭐️[arXiv.org](https://arxiv.org/) — the one and only. <!-- 2024-09-21 -->
 - [ProjectEuclid](https://projecteuclid.org/) — mathematics and statistics. <!-- 2024-09-21 -->
 - [ACM Digital Library](https://dl.acm.org/) — computer science papers.
 - [Papers With Code](https://paperswithcode.com/) — apparently these papers have code. <!-- 2024-09-21 -->
@@ -54,14 +54,15 @@ Browse papers on these websites daily and you will become... _read more_
 ## Cool blogs
 
 - [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
-- [fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
+- ⭐️[fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
 - [Blogscroll](https://blogscroll.com), a collection of blog links, fun to browse.
 - [Melos Han-Tani](https://melodicambient.substack.com), gamedev stuff mostly.
 - [flak](https://flak.tedunangst.com)
 - [hereket](https://hereket.com/)
 - [dotat](https://dotat.at/) <!-- 2024-08-01 -->
 - [Aleksandra T.Ma's blog](https://mtsandra.github.io/blog/), ML and stuff <!-- 2024-09-06 -->
-- [Parenthetically Speaking](https://parentheticallyspeaking.org/) <!-- 2024-11-10 -->
+- ⭐️[Parenthetically Speaking](https://parentheticallyspeaking.org/) <!-- 2024-11-10 -->
+- ⭐️[Maggie Appleton](https://maggieappleton.com/) — "makes visual essays about programming, design, and anthropology" <!-- 2024-11-10 -->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
@@ -84,7 +85,7 @@ Congratulations, you have found more links.
 
 ## Apps I like (macOS only)
 
-- [Keka](https://www.keka.io/en/), a file archiver.
+- ⭐️[Keka](https://www.keka.io/en/), a file archiver.
 - [Mountain Duck](https://mountainduck.io), mount cloud storage as a disk.
 - [Image2icon](https://img2icnsapp.com), generate icons for iOS and macOS apps.
 - [NetIQuette](https://objective-see.org/products/netiquette.html), a network monitor.
