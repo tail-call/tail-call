@@ -22,7 +22,7 @@ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024]
     :initform '(:python :scheme :lua :swift :typescript))
    (interests
     :initform '(:mathematics :machine-learning :computer-graphics :compilers :philosophy))
-   (hobbies :initform '(:composing-music :journaling :hiking :singing :poetry))))
+   (hobbies :initform '(:composing-music :journaling :hiking :meditation :singing :poetry))))
 
 (defmethod likes-p ((os t) (self maria))
   t)
