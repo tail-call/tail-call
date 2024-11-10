@@ -51,7 +51,7 @@ Browse papers on these websites daily and you will become... _read more_
 - [Papers With Code](https://paperswithcode.com/) — apparently these papers have code. <!-- 2024-09-21 -->
 - [Hugging Face Daily Papers](https://huggingface.co/papers) <!-- 2024-11-03 -->
 
-## Cool blogs
+## Cool blogs / personal websites / pages / etc
 
 - [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
 - ⭐️[fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
