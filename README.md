@@ -1,18 +1,20 @@
 # _♫ λ ⍺ π η_ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
-### See
+> *Conjecture 1.* Github's profile readme is a perfect location for dumping links.
+
+### 🪩 NeurIPS News
 
 - [NeurIPS 2023 - Machine Learning for Theorem Proving - Outline](https://github.com/tail-call/tail-call/blob/main/NeurIPS%20-%20Machine%20Learning%20for%20Theorem%20Proving%20-%20Outline_compressed.pdf)
 - [NeurIPS 2023 Posters](https://neurips2023.vizhub.ai/) — interactive!
 
 $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024]
 
-### Also see
+### 🧠 Greatest ML Links Of Existence
 
 - [Лекции по машинному обучению](https://sok.susu.ru/courses/MachineLearnig/lectures/)
 - [BabyAGI inspired projects](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
 
-## About me // Обо мне
+## 🦎 About me // Обо мне
 
 [Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf)
 
@@ -36,13 +38,13 @@ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024]
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
 
-## Notable READMEs
+## 📝 Notable READMEs
 
 - [CLAide](https://github.com/CocoaPods/CLAide), a ruby lib for building CLI interfaces. Simply adorable.
 - [The iconic CrackLib README](https://github.com/apple-oss-distributions/CrackLib/tree/CrackLib-37765/cracklib27)
 
 
-## Research
+## 📑 Research
 
 Browse papers on these websites daily and you will become... _read more_
 
@@ -53,7 +55,7 @@ Browse papers on these websites daily and you will become... _read more_
 - [Papers With Code](https://paperswithcode.com/) — apparently these papers have code. <!-- 2024-09-21 -->
 - [Hugging Face Daily Papers](https://huggingface.co/papers) <!-- 2024-11-03 -->
 
-## Cool blogs / personal websites / pages / etc
+## 𐄳 Cool blogs / personal websites / pages / etc
 
 - [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
 - ⭐️[fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
@@ -71,7 +73,7 @@ Browse papers on these websites daily and you will become... _read more_
 
 Congratulations, you have found more links.
 
-## Important links
+## 𑁣 Important links
 
 - [Free for Developers](https://free-for.dev/), free services for developers, from CI/CD to IDEs.
 - [Litmaps](https://www.litmaps.com), search for scientific papers.
