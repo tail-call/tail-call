@@ -35,7 +35,7 @@ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024]
 (defmethod likes-p ((os (eql :windows)) (self maria))
   nil)
 
-;; Welcome to the electric house for the somber people of the world
+;; Welcome to the electric home for the somber people of the world
 ```
 
 〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
