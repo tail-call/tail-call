@@ -1,6 +1,6 @@
 # _♫ λ ⍺ π η_ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
-> *Conjecture 1.* Github's profile readme is a perfect location for dumping links.
+> *Conjecture 1.* Github's profile readme is the perfect location for dumping links.
 
 ### 🪩 NeurIPS News
 
