@@ -1,7 +1,12 @@
 # _♫ λ ⍺ π η_ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
-> *Conjecture 1.* Github's profile readme is the perfect location for dumping links.
+> - 📚 Keep reading the literature
+> - 🤔 Keep asking questions
+> - 🏰 Keep building your independence
+> 
+> — [R1NaNo](https://academia.stackexchange.com/a/214955), a poster from academia.stackexchange
 
+> *Conjecture 1.* Github's profile readme is the perfect location for dumping links.
 ### 🪩 NeurIPS News
 
 - [NeurIPS 2023 - Machine Learning for Theorem Proving - Outline](https://github.com/tail-call/tail-call/blob/main/NeurIPS%20-%20Machine%20Learning%20for%20Theorem%20Proving%20-%20Outline_compressed.pdf)
