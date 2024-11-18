@@ -1,4 +1,4 @@
-# _♫ λ ⍺ π η_ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
+# _♫ [λ](https://github.com/tail-call/JupyterNotebooks/blob/main/Bibliography.bib) ⍺ π η_ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
 > - 📚 Keep reading the literature
 > - 🤔 Keep asking questions
