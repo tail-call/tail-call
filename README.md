@@ -68,6 +68,7 @@ Browse papers on these websites daily and you will become... _read more_
 - [Aleksandra T.Ma's blog](https://mtsandra.github.io/blog/), ML and stuff <!-- 2024-09-06 -->
 - ⭐️[Parenthetically Speaking](https://parentheticallyspeaking.org/) — Racket guy <!-- 2024-11-10 -->
 - ⭐️[Maggie Appleton](https://maggieappleton.com/) — "makes visual essays about programming, design, and anthropology" <!-- 2024-11-10 -->
+- [FrostKiwi's Secrets](https://blog.frost.kiwi/) — computer graphics <!-2024-11-21-->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
