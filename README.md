@@ -12,7 +12,7 @@
 - [NeurIPS 2023 - Machine Learning for Theorem Proving - Outline](https://github.com/tail-call/tail-call/blob/main/NeurIPS%20-%20Machine%20Learning%20for%20Theorem%20Proving%20-%20Outline_compressed.pdf)
 - [NeurIPS 2023 Posters](https://neurips2023.vizhub.ai/) — interactive!
 
-$$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024]
+{ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024] } is over
 
 ### 🧠 Greatest ML Links Of Existence
 
