@@ -1,5 +1,7 @@
 # _♫ [λ](https://github.com/tail-call/JupyterNotebooks/blob/main/Bibliography.bib) ⍺ π η_ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
+〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
+
 > - 📚 Keep reading the literature
 > - 🤔 Keep asking questions
 > - 🏰 Keep building your independence
@@ -37,8 +39,6 @@
 
 ;; Welcome to the electric home for the somber people of the world
 ```
-
-〻 [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
 
 ## 📑 Research
 
