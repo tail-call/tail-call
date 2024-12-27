@@ -64,6 +64,7 @@ Browse papers on these websites daily and you will become... _read more_
 - ⭐️[Parenthetically Speaking](https://parentheticallyspeaking.org/) — Racket guy <!-- 2024-11-10 -->
 - ⭐️[Maggie Appleton](https://maggieappleton.com/) — "makes visual essays about programming, design, and anthropology" <!-- 2024-11-10 -->
 - [FrostKiwi's Secrets](https://blog.frost.kiwi/) — computer graphics <!-- 2024-11-21-->
+- [Stephen Brennan](https://brennan.io/) — C, stacks, pointers, etc <!-- 2024-12-27 -->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
