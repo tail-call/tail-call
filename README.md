@@ -40,7 +40,7 @@
 ;; Welcome to the electric home for the somber people of the world
 ```
 
-## 📑 Research
+## 📑 Useful Science Links
 
 Browse papers on these websites daily and you will become... _read more_
 
