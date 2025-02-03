@@ -50,6 +50,7 @@ Browse papers on these websites daily and you will become... _read more_
 - [ACM Digital Library](https://dl.acm.org/) — computer science papers.
 - [Papers With Code](https://paperswithcode.com/) — apparently these papers have code. <!-- 2024-09-21 -->
 - [Hugging Face Daily Papers](https://huggingface.co/papers) <!-- 2024-11-03 -->
+- [Litmaps](https://www.litmaps.com), search for scientific papers. <!-- UPD 2024-02-03 -->
 
 ## 𐄳 Cool blogs / personal websites / pages / etc
 
@@ -81,7 +82,6 @@ Browse papers on these websites daily and you will become... _read more_
 ## 𑁣 Important links
 
 - [Free for Developers](https://free-for.dev/), free services for developers, from CI/CD to IDEs.
-- [Litmaps](https://www.litmaps.com), search for scientific papers.
 - [Eureka Alert](https://www.eurekalert.org), science news.
 - [Stack Roboflow](https://stackroboflow.com/), a Q&A website of the future.
 - [Timecube](https://timecube.2enp.com), a very good explanation of how time works. <!-- this is not what I truly think -->
