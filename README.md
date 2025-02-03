@@ -54,6 +54,8 @@ Browse papers on these websites daily and you will become... _read more_
 
 ## 𐄳 Cool blogs / personal websites / pages / etc
 
+These blogs have shaped me
+
 - [Schemescape](https://log.schemescape.com), static site generators, programming languages, deno, game development.
 - ⭐️[fuzzy notepad](https://eev.ee/?message=Notice+me+sempai), I adore her.
 - [Blogscroll](https://blogscroll.com), a collection of blog links, fun to browse.
