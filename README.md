@@ -9,16 +9,12 @@
 > — [R1NaNo](https://academia.stackexchange.com/a/214955), a poster from academia.stackexchange
 
 > *Conjecture 1.* Github's profile readme is the perfect location for dumping links.
-### 🪩 NeurIPS News
-
-- [NeurIPS 2023 - Machine Learning for Theorem Proving - Outline](https://github.com/tail-call/tail-call/blob/main/NeurIPS%20-%20Machine%20Learning%20for%20Theorem%20Proving%20-%20Outline_compressed.pdf)
-- [NeurIPS 2023 Posters](https://neurips2023.vizhub.ai/) — interactive!
-
-{ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024] } is over
 
 ## 🦎 About me // Обо мне
 
 [Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf)
+
+Аспирантка (ИТМО, искусственный интеллект)
 
 ```lisp
 ;; about-me.lisp
@@ -36,8 +32,6 @@
 
 (defmethod likes-p ((os (eql :windows)) (self maria))
   nil)
-
-;; Welcome to the electric home for the somber people of the world
 ```
 
 ## 📑 Useful Science Links
@@ -107,5 +101,12 @@ These blogs have shaped me
 <!-- This section was initially somewhere at the top of this file, therefore formerly -->
 - [Лекции по машинному обучению](https://sok.susu.ru/courses/MachineLearnig/lectures/)
 - [BabyAGI inspired projects](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
+
+### 🪩 NeurIPS News
+
+- [NeurIPS 2023 - Machine Learning for Theorem Proving - Outline](https://github.com/tail-call/tail-call/blob/main/NeurIPS%20-%20Machine%20Learning%20for%20Theorem%20Proving%20-%20Outline_compressed.pdf)
+- [NeurIPS 2023 Posters](https://neurips2023.vizhub.ai/) — interactive!
+
+{ $$\mathrm{NeurIPS 2024 Dates}$$ &isin; [10 Dec 2024, 15 Dec 2024] } is over
 
 </details>
