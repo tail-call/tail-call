@@ -1,4 +1,4 @@
-# _♫ [λ](https://github.com/tail-call/JupyterNotebooks/blob/main/Bibliography.bib) ⍺ π η_ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
+# _♫ [λ](https://github.com/tail-call/JupyterNotebooks/blob/main/Bibliography.bib) [⍺](https://cybercat.institute/) π η_ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
 〻 [bibliography](https://github.com/tail-call/Research/blob/main/Bibliography.bib) ︙ [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
 
