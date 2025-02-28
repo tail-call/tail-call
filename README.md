@@ -60,10 +60,11 @@ These blogs have shaped me
 - [hereket](https://hereket.com/)
 - [dotat](https://dotat.at/) <!-- 2024-08-01 -->
 - [Aleksandra T.Ma's blog](https://mtsandra.github.io/blog/), ML and stuff <!-- 2024-09-06 -->
-- ⭐️[Parenthetically Speaking](https://parentheticallyspeaking.org/) — Racket guy <!-- 2024-11-10 -->
+- ⭐️[Parenthetically Speaking](https://parentheticallypeaking.org/) — Racket guy <!-- 2024-11-10 -->
 - ⭐️[Maggie Appleton](https://maggieappleton.com/) — "makes visual essays about programming, design, and anthropology" <!-- 2024-11-10 -->
-- [FrostKiwi's Secrets](https://blog.frost.kiwi/) — computer graphics <!-- 2024-11-21-->
+- [FrostKiwi's Secrets](https://blog.frost.kiwi/) — computer graphics <!-- 2024-11-21 -->
 - [Stephen Brennan](https://brennan.io/) — C, stacks, pointers, etc <!-- 2024-12-27 -->
+- [Lei Mao](https://leimao.github.io/) - Senior Deep Learning Systems Engineer at NVIDIA <!-- 2025-02-28 -->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
