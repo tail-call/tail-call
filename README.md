@@ -65,6 +65,7 @@ These blogs have shaped me
 - [FrostKiwi's Secrets](https://blog.frost.kiwi/) — computer graphics <!-- 2024-11-21 -->
 - [Stephen Brennan](https://brennan.io/) — C, stacks, pointers, etc <!-- 2024-12-27 -->
 - [Lei Mao](https://leimao.github.io/) - Senior Deep Learning Systems Engineer at NVIDIA <!-- 2025-02-28 -->
+- [Bret Victor](https://worrydream.com/) - Unhinged <!-- 2025-04-15 -->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
