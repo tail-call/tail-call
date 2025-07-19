@@ -2,6 +2,7 @@
 
 〻 [bibliography](https://github.com/tail-call/Research/blob/main/Bibliography.bib) ︙ [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
 
+<!--
 > - 📚 Keep reading the literature
 > - 🤔 Keep asking questions
 > - 🏰 Keep building your independence
@@ -10,13 +11,13 @@
 
 > *Conjecture 1.* Github's profile readme is the perfect location for dumping links.
 
-## 🦎 About me // Обо мне
+-->
 
-[Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf)
+## 🦎 About me
 
-Аспирантка (ИТМО, искусственный интеллект)
+<!-- [Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf) -->
 
-В прошлом делала приложения для айфончиков и всякие другие штуки
+Grad student at ITMO. My research interests include intersections of machine learning and category theory, automated reasoning (proof assistants, logical programming, programs-as-proofs, etc.), and connections to neurobiology.
 
 ```lisp
 ;; about-me.lisp
@@ -66,6 +67,7 @@ These blogs have shaped me
 - [Stephen Brennan](https://brennan.io/) — C, stacks, pointers, etc <!-- 2024-12-27 -->
 - [Lei Mao](https://leimao.github.io/) - Senior Deep Learning Systems Engineer at NVIDIA <!-- 2025-02-28 -->
 - [Bret Victor](https://worrydream.com/) - Unhinged <!-- 2025-04-15 -->
+- [colah](https://colah.github.io/) - Cool ML visualizations <!-- 2025-06-19 -->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
