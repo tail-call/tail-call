@@ -21,6 +21,8 @@ Grad student at ITMO. My research interests include intersections of machine lea
 
 I hold a Master's degree in Electrical Engineering, specializing in low-level programming and bare-metal systems for efficient computation.
 
+I am also a huge functional programming geek so I talk about lambdas a lot.
+
 ```lisp
 ;; about-me.lisp
 
