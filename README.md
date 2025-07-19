@@ -19,6 +19,8 @@
 
 Grad student at ITMO. My research interests include intersections of machine learning and category theory, automated reasoning (proof assistants, logical programming, programs-as-proofs, etc.), and connections to neurobiology.
 
+I hold a Master's degree in Electrical Engineering, specializing in low-level programming and bare-metal systems for efficient computation.
+
 ```lisp
 ;; about-me.lisp
 
