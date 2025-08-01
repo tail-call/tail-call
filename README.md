@@ -72,6 +72,7 @@ These blogs have shaped me
 - [Lei Mao](https://leimao.github.io/) - Senior Deep Learning Systems Engineer at NVIDIA <!-- 2025-02-28 -->
 - [Bret Victor](https://worrydream.com/) - Unhinged <!-- 2025-04-15 -->
 - [colah](https://colah.github.io/) - Cool ML visualizations <!-- 2025-06-19 -->
+- [soatok](https://soatok.blog/) - Cyber Security <!-- 2025-08-01 -->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
