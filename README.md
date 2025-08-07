@@ -43,7 +43,7 @@ I am also a huge functional programming geek so I talk about lambdas a lot.
 
 ## 📑 Useful Science Links
 
-Browse papers on these websites daily and you will become... _read more_
+Browse papers on these websites daily and you will become... _more read_ <!-- _read more_ -->
 
 - ⭐️[arXiv.org](https://arxiv.org/) — the one and only. <!-- 2024-09-21 -->
 - [OpenReview.net](https://openreview.net/) <!-- 2024-11-12 -->
