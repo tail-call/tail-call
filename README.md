@@ -74,6 +74,7 @@ These blogs have shaped me
 - [Bret Victor](https://worrydream.com/) - Unhinged <!-- 2025-04-15 -->
 - [colah](https://colah.github.io/) - Cool ML visualizations <!-- 2025-06-19 -->
 - [soatok](https://soatok.blog/) - Cyber Security <!-- 2025-08-01 -->
+- [Max Slater](https://thenumb.at/) - Computer Graphics, Programming, and Math <s>and science</s> <!-- 2025-09-28 -->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
