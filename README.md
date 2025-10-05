@@ -75,6 +75,7 @@ These blogs have shaped me
 - [colah](https://colah.github.io/) - Cool ML visualizations <!-- 2025-06-19 -->
 - [soatok](https://soatok.blog/) - Cyber Security <!-- 2025-08-01 -->
 - [Max Slater](https://thenumb.at/) - Computer Graphics, Programming, and Math <s>and science</s> <!-- 2025-09-28 -->
+- [sunshowers](https://sunshowers.io/) - Rust, Philosophy, Systems, also their name is Rain 🌧️ Which is a 10/10 name <!-- 2025-10-03 -->
 
 <details>
 <summary>⦿&thinsp;◀</summary>
