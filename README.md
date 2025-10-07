@@ -23,24 +23,6 @@ I hold a Master's degree in Electrical Engineering, specializing in low-level pr
 
 I am also a huge functional programming geek so I talk about lambdas a lot.
 
-```lisp
-;; about-me.lisp
-
-(defclass maria (software-developer data-scientist new-age-neo-hippie lisp-geek)
-  ((editors :initform '(:nvim :emacs :vs-code))
-   (favorite-programming-languages
-    :initform '(:python :scheme :lua :swift :typescript))
-   (interests
-    :initform '(:mathematics :machine-learning :computer-graphics :compilers :philosophy))
-   (hobbies :initform '(:composing-music :journaling :hiking :meditation :singing :poetry))))
-
-(defmethod likes-p ((os t) (self maria))
-  t)
-
-(defmethod likes-p ((os (eql :windows)) (self maria))
-  nil)
-```
-
 ## 📑 Useful Science Links
 
 Browse papers on these websites daily and you will become... _more read_ <!-- _read more_ -->
@@ -83,6 +65,25 @@ These blogs have shaped me
 # Maria's Secret Stash of Extra Links
 
 > Congratulations! You found it
+
+
+```lisp
+;; about-me.lisp
+
+(defclass maria (software-developer data-scientist new-age-neo-hippie lisp-geek)
+  ((editors :initform '(:nvim :emacs :vs-code))
+   (favorite-programming-languages
+    :initform '(:python :scheme :lua :swift :typescript))
+   (interests
+    :initform '(:mathematics :machine-learning :computer-graphics :compilers :philosophy))
+   (hobbies :initform '(:composing-music :journaling :hiking :meditation :singing :poetry))))
+
+(defmethod likes-p ((os t) (self maria))
+  t)
+
+(defmethod likes-p ((os (eql :windows)) (self maria))
+  nil)
+```
 
 ## 📝 Notable READMEs
 
