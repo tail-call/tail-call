@@ -59,6 +59,10 @@ Websites closer to the top have shaped me, those closer to the bottom are mostly
 - [Max Slater](https://thenumb.at/) - Computer Graphics, Programming, and Math <s>and science</s> <!-- 2025-09-28 -->
 - [sunshowers](https://sunshowers.io/) - Rust, Philosophy, Systems, also their name is Rain 🌧️ Which is a 10/10 name <!-- 2025-10-03 -->
 - [MiniHF Blog](https://minihf.com/blog/) - Insight into AI <!-- 2025-10-09 -->
+- [ptrpaws](https://ptrpa.ws/) - Ellie, hacks <!-- 2025-10-16 -->
+- [marek markiewka](https://marma.dev/) - Rust, devops <!-- 2025-10-16 -->
+
+I seek meaning in systems, both digital and human.
 
 <details>
 <summary>⦿&thinsp;◀</summary>
