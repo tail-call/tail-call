@@ -23,6 +23,8 @@ I hold a Master's degree in Electrical Engineering, specializing in low-level pr
 
 I am also a huge functional programming geek so I talk about lambdas a lot.
 
+I seek meaning in systems, both digital and human.
+
 ## 📑 Useful Science Links
 
 Browse papers on these websites daily and you will become... _more read_ <!-- _read more_ -->
@@ -63,8 +65,6 @@ Websites closer to the top have shaped me, those closer to the bottom are mostly
 - [ptrpaws](https://ptrpa.ws/) - Ellie, hacks <!-- 2025-10-16 -->
 - [marek markiewka](https://marma.dev/) - Rust, devops <!-- 2025-10-16 -->
 - [Rebecca Bishop | Sigrunixia](https://tenebrousdragon.com/home) - A knowledge base enthusiast and a fellow dragon <!-- 2025-12-01 -->
-
-I seek meaning in systems, both digital and human.
 
 <details>
 <summary>⦿&thinsp;◀</summary>
