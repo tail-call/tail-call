@@ -1,6 +1,6 @@
 # _♫ [λ](https://github.com/tail-call/JupyterNotebooks/blob/main/Bibliography.bib) [⍺](https://arxiv.org/abs/2507.19143) [π](https://github.com/tail-call/tail-call/wiki/Papers) [η](https://cybercat.institute/)_ • 𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐭𝐚𝐢𝐥-𝐜𝐚𝐥𝐥 • [𝓌](https://github.com/tail-call/knowledge/wiki) •
 
-〻 [bibliography](https://github.com/tail-call/Research/blob/main/Bibliography.bib) ︙ [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp;𒑱
+〻 [bibliography](https://github.com/tail-call/Research/blob/main/Bibliography.bib) ︙ [gists](https://gist.github.com/tail-call) ︙ [itch.io](https://engraze.itch.io)&ensp; ︙ [codeberg](https://codeberg.org/tail-call) 𒑱
 
 <!--
 > - 📚 Keep reading the literature
