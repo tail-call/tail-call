@@ -17,7 +17,9 @@
 
 <!-- [Участник Атомик Хак 2.0 (июнь 2024 г.)](https://github.com/tail-call/tail-call/blob/262a43e6a2dd363d33876559d65d8d4344e8b437/Certificate_2024-06-26_18_11_54.904Z.pdf) -->
 
-Grad student at ITMO. My research interests include intersections of machine learning and category theory, automated reasoning (proof assistants, logical programming, programs-as-proofs, etc.), and connections to neurobiology.
+<!-- Grad student at ITMO. My research interests include intersections of machine learning and category theory, automated reasoning (proof assistants, logical programming, programs-as-proofs, etc.), and connections to neurobiology. -->
+
+I'm a machine learning/data science practitioner.
 
 I hold a Master's degree in Electrical Engineering, specializing in low-level programming and bare-metal systems for efficient computation.
 
